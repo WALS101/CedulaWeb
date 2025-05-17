@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Wilber Lopez",
+    "edad": 30,
+    "sexo": "M",
+    "cedula": "22400778373"
+  },
+  {
+    "nombre": "Pamela Gonzalez",
+    "edad": 30,
+    "sexo": "F",
+    "cedula": "40222230837"
+  },
+  {
+    "nombre": "Margarita Sanchez",
+    "edad": 50,
+    "sexo": "F",
+    "cedula": "00111223194"
+  }
+]
